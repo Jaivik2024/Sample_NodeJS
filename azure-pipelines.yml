@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-name: 'MS-AgentPool'
+  name: 'MS-AgentPool'
 
 steps:
 - task: NodeTool@0
